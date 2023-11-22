@@ -1,0 +1,26 @@
+.containerlogin{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 200px;
+    margin-left: 40%;
+    width: 300px;
+    height:300px;
+    background-color: #D2E3C8;
+    padding: 20px;
+    border-radius: 10px;
+    border: 0px solid grey;
+ 
+    box-shadow: 0px 0px 255px -1px rgba(0,0,0,0.6),
+    0px 45px 26px 0px rgba(0,0,0,0.14);
+
+    
+}   
+body{
+    background:url("https://t3.ftcdn.net/jpg/02/65/32/32/360_F_265323269_QoipYNMdd97ZbQJGlSN5TLBXxRUoe0ju.jpg");
+    background-size: cover;
+    background-position: fixed;
+}
+input{
+    border-radius: 5px;
+}
